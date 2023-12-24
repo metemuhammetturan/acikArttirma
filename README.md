@@ -22,11 +22,3 @@ Açık artırma ve oyun teorisi ilişkisi üzerine yapılan çalışmalar, hem e
 ## Açık Artırma Simülasyonunun Kullanımı
 
 Bu program, C dilinde yazılmıştır ve basit bir açık artırma senaryosunu simüle eder. Projeyi kullanmak için C derleyicisine ihtiyaç vardır. Projeyi derleyip çalıştırdığınızda, rastgele tekliflerle bir açık artırma süreci simüle edilir ve sonunda kazanan müşteri belirtilir.
-
-## Nasıl Kullanılır?
-
-1. Kodu klonlayın veya indirin.
-2. C derleyicisi ile kodu derleyin.
-3. Derlenmiş programı çalıştırın ve açık artırma sürecini gözlemleyin.
-
-Bu README dosyası, projenin temel işlevlerini ve kavramsal bağlantılarını anlatmak için hazırlanmıştır. Daha fazla detay için kaynak kodları inceleyebilirsiniz.
